@@ -18,9 +18,9 @@ li {
 }
 
 img {
-    width: 40%;
+    width: 100%;
     height: auto;
-    max-width: 40%;
+    max-width: 100%;
 }
 
 main {
@@ -84,4 +84,14 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+#banner1 {
+    width: 33%;
+    height: auto;
+    background-color: white;
+}
+#banner2 {
+    width: 50%;
+    height: auto;
+    background-color: white;
 }
